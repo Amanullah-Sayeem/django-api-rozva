@@ -11,6 +11,4 @@ urlpatterns = [
     # path('product/usedfor/<id>', productByUsedFor, name=""),
     path('product/brand/<id>', productByBrand, name=""),
     path('product/category/<id>', productByCategory, name="")
-
-
 ]
